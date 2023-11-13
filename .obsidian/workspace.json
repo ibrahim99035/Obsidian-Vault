@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "1ae554f92f2c0f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "50e259e636049072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b9f6bce7557b8f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Factory Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1471262a8bfcaf32",
+    "type": "split",
+    "children": [
+      {
+        "id": "a905f46554f01311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a620ed6359667f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1f45dc07586e5b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8202e98988bdc744",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "4593619911898899",
+    "type": "split",
+    "children": [
+      {
+        "id": "eecc163231c7a240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a86d126742e8b812",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbcd5ae114b17450",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Factory Method.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8df5f26e483c0a81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Factory Method.md"
+              }
+            }
+          },
+          {
+            "id": "51deea3b9ae531ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4b9f6bce7557b8f6",
+  "lastOpenFiles": [
+    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Prototype.md",
+    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Adapter.md",
+    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Proxy.md",
+    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Decorator.md",
+    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Composite.md",
+    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Abstract Factory.md",
+    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Builder.md",
+    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Factory Method.md",
+    "Design Patterns Course on ChatGPT/Categories",
+    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/Chain of Responsibility.md",
+    "Design Patterns Course on ChatGPT/Categories/Behavioral.md",
+    "Design Patterns Course on ChatGPT/Design Patterns Categories.md",
+    "Design Patterns Course on ChatGPT/Categories/Structural.md",
+    "Design Patterns Course on ChatGPT/Categories/Creational.md",
+    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Singleton.md",
+    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/Command.md",
+    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/State.md",
+    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/Strategy.md",
+    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/Observer.md",
+    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns",
+    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Bridge.md",
+    "Design Patterns Course on ChatGPT/Categories/Structural Patterns",
+    "Design Patterns Course on ChatGPT/Categories/Creational Patterns",
+    "Design Patterns Course on ChatGPT/Design Patterns Intro.md",
+    "Design Patterns Course on ChatGPT/Design Patterns intro.md",
+    "Design Patterns Course on ChatGPT",
+    "Python on obisidian.md",
+    "desktop.ini",
+    "2023-11-12.md",
+    "Test",
+    "Untitled/Untitled"
+  ]
+}
