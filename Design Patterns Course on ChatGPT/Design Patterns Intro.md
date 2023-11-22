@@ -33,3 +33,5 @@ formalized 23 design patterns that have become widely accepted in the software d
 ---
 [[Design Patterns Categories]]
 
+---
+#DesignPatterns

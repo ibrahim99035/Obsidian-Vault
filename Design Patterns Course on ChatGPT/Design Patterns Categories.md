@@ -25,3 +25,4 @@ They define communication methods for objects to interact with each other.
 	- Chain of Responsibility.
 	- State.
 ---
+#DesignPatterns

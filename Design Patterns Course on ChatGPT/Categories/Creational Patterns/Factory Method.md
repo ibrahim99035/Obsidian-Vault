@@ -55,3 +55,4 @@ print(result2)  # Output: Creator: ConcreteProduct2 operation
 2. **Framework Extensions:** In frameworks, the Factory Method Pattern is often used for extending or customizing the behavior of components. 
 	- Subclasses can provide their own factory methods to create objects that fit into the framework.
 ---
+#DesignPatterns

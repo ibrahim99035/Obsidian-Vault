@@ -7,3 +7,5 @@ They help in building large structures from individual parts:
 	- [[Composite]].
 	- [[Proxy]].
 	- [[Bridge]].
+
+#DesignPatterns

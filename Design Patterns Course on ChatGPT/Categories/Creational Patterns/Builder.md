@@ -56,3 +56,10 @@ product = builder.get_result()
 product.show()
 # Output: Product parts: Part A, Part B
 ```
+---
+#### Use Cases:
+1. **Complex Object Construction:** Use the Builder Pattern when you need to construct objects with many optional components or configurations. 
+ 
+2. **Configuration with Defaults:** In scenarios where you have a large number of optional parameters, and you want to provide sensible defaults for those that are not explicitly set, the Builder Pattern allows clients to specify only the relevant parameters.
+
+#DesignPatterns

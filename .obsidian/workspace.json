@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50e259e636049072",
+        "id": "8d86491e65060fe2",
         "type": "tabs",
         "children": [
           {
-            "id": "4b9f6bce7557b8f6",
+            "id": "09917d12c8fb46bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Factory Method.md",
+                "file": "UML/Diagrams/Interaction UML Diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 278.5
   },
   "right": {
     "id": "4593619911898899",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Factory Method.md",
+                "file": "UML/Diagrams/Interaction UML Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Factory Method.md"
+                "file": "UML/Diagrams/Interaction UML Diagrams.md"
               }
             }
           },
@@ -119,8 +119,26 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "34f37fb10eff276d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UML/Diagrams/Interaction UML Diagrams.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -129,8 +147,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -138,38 +156,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b9f6bce7557b8f6",
+  "active": "09917d12c8fb46bd",
   "lastOpenFiles": [
-    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Prototype.md",
-    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Adapter.md",
-    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Proxy.md",
-    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Decorator.md",
-    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Composite.md",
-    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Abstract Factory.md",
-    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Builder.md",
-    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Factory Method.md",
-    "Design Patterns Course on ChatGPT/Categories",
-    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/Chain of Responsibility.md",
-    "Design Patterns Course on ChatGPT/Categories/Behavioral.md",
-    "Design Patterns Course on ChatGPT/Design Patterns Categories.md",
-    "Design Patterns Course on ChatGPT/Categories/Structural.md",
-    "Design Patterns Course on ChatGPT/Categories/Creational.md",
-    "Design Patterns Course on ChatGPT/Categories/Creational Patterns/Singleton.md",
-    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/Command.md",
-    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/State.md",
-    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/Strategy.md",
-    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns/Observer.md",
-    "Design Patterns Course on ChatGPT/Categories/Behavioral Patterns",
-    "Design Patterns Course on ChatGPT/Categories/Structural Patterns/Bridge.md",
-    "Design Patterns Course on ChatGPT/Categories/Structural Patterns",
-    "Design Patterns Course on ChatGPT/Categories/Creational Patterns",
-    "Design Patterns Course on ChatGPT/Design Patterns Intro.md",
-    "Design Patterns Course on ChatGPT/Design Patterns intro.md",
-    "Design Patterns Course on ChatGPT",
-    "Python on obisidian.md",
-    "desktop.ini",
-    "2023-11-12.md",
-    "Test",
-    "Untitled/Untitled"
+    "UML/Diagrams/Interaction Diagrams/Interaction Overview Diagram.md",
+    "UML/Diagrams/Interaction Diagrams/Communication Diagram.md",
+    "UML/Diagrams/Interaction Diagrams/Timing Diagram.md",
+    "UML/Diagrams/Interaction Diagrams/Sequence Diagram.md",
+    "Timing Diagram.md",
+    "UML/Diagrams/Interaction UML Diagrams.md",
+    "Interaction Overview Diagram.md",
+    "Communication Diagram.md",
+    "Sequence Diagram.md",
+    "UML/Diagrams/Structural UML Diagrams.md",
+    "UML/Diagrams/Interaction Diagrams",
+    "UML/Diagrams/New folder",
+    "UML/Diagrams/Behavioral UML Diagrams.md",
+    "State Machine Diagram.md",
+    "UML/Diagrams/Behavioral Diagrams/State Machine Diagram.md",
+    "UML/Diagrams/Behavioral Diagrams/Activity Diagram.md",
+    "UML/Diagrams/Behavioral Diagrams/Use Case Diagram.md",
+    "UML/Diagrams/Behavioral Diagrams",
+    "Use Case Diagram.md",
+    "Activity Diagram.md",
+    "UML/Diagrams/Structural Diagrams/Package Diagram.md",
+    "UML/UML Diagramming.md",
+    "UML/Relationships/Realization (Interface) UML Relationship.md",
+    "UML/Relationships/Inheritance (Generalization) UML Relationship.md",
+    "UML/Relationships/Association UML Relationship.md",
+    "UML/Diagrams/Structural Diagrams/Profile Diagram.md",
+    "UML/Diagrams/Structural Diagrams/Object Diagram.md",
+    "UML/Diagrams/Structural Diagrams/Deployment Diagram.md",
+    "UML/Diagrams/Structural Diagrams/Composite Structure Diagram.md",
+    "assets/Pasted image 20231122120930.png",
+    "assets/Pasted image 20231122120905.png",
+    "assets/Pasted image 20231122120348.jpg",
+    "assets/Pasted image 20231122115918.png",
+    "assets/Pasted image 20231122115703.png",
+    "assets/Pasted image 20231122115105.jpg",
+    "assets/Pasted image 20231122091709.png",
+    "assets/Pasted image 20231122091641.png",
+    "assets/Pasted image 20231122091546.jpg",
+    "Untitled.canvas",
+    "UML/Diagrams/Structural Diagrams",
+    "assets/051818_1150_UMLClassDia10.webp",
+    "UML/Diagrams",
+    "UML/New folder",
+    "UML/Relationships",
+    "UML",
+    "assets",
+    "New folder"
   ]
 }

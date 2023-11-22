@@ -32,3 +32,6 @@ print(clone1.data)               # Output: Modified Data
 	- This is common in scenarios where the cost of creating a new object involves complex operations or resource-intensive tasks.
 2. **Configuration Management:** When your application needs to support different configurations, you can use the Prototype Pattern to create prototype objects representing various configurations. 
 	- Clients can then clone these prototypes to get instances with specific settings.
+
+
+#DesignPatterns

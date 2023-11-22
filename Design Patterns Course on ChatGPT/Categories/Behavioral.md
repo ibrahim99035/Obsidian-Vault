@@ -6,3 +6,5 @@ They define communication methods for objects to interact with each other.
 	- [[Command]].
 	- [[Chain of Responsibility]].
 	- [[State]].
+
+#DesignPatterns

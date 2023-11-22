@@ -43,3 +43,4 @@ logger_instance = Logger()
 logger_instance.log("This is a log message")
 ```
 ---
+#DesignPatterns

@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#python  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#FastAPI",
+      "color": {
+        "a": 1,
+        "rgb": 1271978
+      }
+    },
+    {
+      "query": "tag:#DesignPatterns  ",
+      "color": {
+        "a": 1,
+        "rgb": 344608
+      }
+    },
+    {
+      "query": "tag:#UML",
+      "color": {
+        "a": 1,
+        "rgb": 6755232
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.258838656218163,
+  "scale": 0.36288736930121357,
   "close": true
 }

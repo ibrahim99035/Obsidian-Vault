@@ -7,3 +7,5 @@ They deal with **class creation and initialization**.
 	- [[Abstract Factory]].
 	- [[Builder]].
 	- [[Prototype]].
+
+#DesignPatterns
